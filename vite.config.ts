@@ -14,7 +14,7 @@ export default defineConfig({
     vueJsx(),
     vueDevTools(),
   ],
-  base: '/sandman-torn/psm/tailwind/',
+  base: '/psm-f/',
   resolve: {
     //alias: {
     //  '@': fileURLToPath(new URL('./src', import.meta.url))
