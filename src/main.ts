@@ -18,7 +18,7 @@ import useAuth from './composable/useAuth'
 import useAuthPenganjur from './composable/useAuthPenganjur'
 import useAuthPentadbir from './composable/useAuthPentadbir'
 
-axios.defaults.baseURL = 'http://psm-b.test'
+axios.defaults.baseURL = 'https://sandman-torn.github.io'
 axios.defaults.withCredentials = true
 axios.defaults.withXSRFToken = true
 
